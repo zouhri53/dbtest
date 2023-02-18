@@ -15,7 +15,7 @@
             { "id": 3, "operator": "Filter", "description": "filtrer une liste" },
             { "id": 4, "operator": "Tap", "description": "consoleLog au cours du traitement" },
             { "id": 5, "operator": "Take", "description": "Limiter le nombre des valeurs à retourner"},
-            { "id": 6, "meoperatorthod": "throwError() et EMPTY", "description": "pour gerer les erreurs"}
+            { "id": 6, "operator": "throwError() et EMPTY", "description": "pour gerer les erreurs"}
         ]
 }
 
