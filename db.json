@@ -7,6 +7,15 @@
             { "id": 4, "method": "Tap", "description": "consoleLog au cours du traitement" },
             { "id": 5, "method": "Take", "description": "Limiter le nombre des valeurs à retourner"},
             { "id": 6, "method": "throwError() et EMPTY", "description": "pour gerer les erreurs"}
+        ],
+    "Operators": 
+        [
+            { "id": 1, "operator": "Pipe", "description": "Regrouper les opérations" },
+            { "id": 2, "operator": "Map", "description": "appliquer des operations sur la valeur reçu"},
+            { "id": 3, "operator": "Filter", "description": "filtrer une liste" },
+            { "id": 4, "operator": "Tap", "description": "consoleLog au cours du traitement" },
+            { "id": 5, "operator": "Take", "description": "Limiter le nombre des valeurs à retourner"},
+            { "id": 6, "meoperatorthod": "throwError() et EMPTY", "description": "pour gerer les erreurs"}
         ]
 }
 
