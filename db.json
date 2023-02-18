@@ -1,0 +1,14 @@
+{
+    "methods": 
+        [
+            { "id": 1, "method": "Pipe", "description": "Regrouper les opérations" },
+            { "id": 2, "method": "Map", "description": "appliquer des operations sur la valeur reçu"},
+            { "id": 3, "method": "Filter", "description": "filtrer une liste" },
+            { "id": 4, "method": "Tap", "description": "consoleLog au cours du traitement" },
+            { "id": 5, "method": "Take", "description": "Limiter le nombre des valeurs à retourner"},
+            { "id": 6, "method": "throwError() et EMPTY", "description": "pour gerer les erreurs"}
+        ]
+}
+
+      
+  
